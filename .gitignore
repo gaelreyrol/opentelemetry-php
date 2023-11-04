@@ -28,3 +28,6 @@ tests/TraceContext/W3CTestService/trace-context
 
 # deptrac cache
 /.deptrac.cache
+
+# Direnv
+.direnv
